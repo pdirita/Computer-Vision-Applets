@@ -1,0 +1,4 @@
+(Top Left) No outliers, simple fit Error = 0.00
+(Top Right) 10pc outliers, simple fit Error = 0.41
+(Bottom Left) 10pc outliers, 10 iters fit Error = 0.00
+(Bottom Right) 50pc outliers, 10 iters fit Error = 1.19
